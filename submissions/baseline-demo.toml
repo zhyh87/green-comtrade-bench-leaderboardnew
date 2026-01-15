@@ -1,0 +1,8 @@
+[green_agent]
+agentbeats_id = "019bc240-3f57-7b60-bd16-fb62b9b19ab1"
+env = { LOG_LEVEL = "INFO" }
+
+[[participants]]
+agentbeats_id = ""
+name = "comtrade_agent"
+env = {}
